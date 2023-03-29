@@ -1,0 +1,10 @@
+.bg-img{
+background-image: url("./img.jpg");
+height:100vh;
+background-repeat: no-repeat;
+}
+.bt_size{
+    border-radius:8px;
+    border-style:none;
+    
+}

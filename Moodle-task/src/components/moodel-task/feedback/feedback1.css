@@ -1,0 +1,8 @@
+.b_heart{
+    font-size: 200px;
+    color:red;
+}
+.back_div{
+    background-image: linear-gradient(to right,rgb(252, 201, 243),rgb(242, 80, 139));
+    border-radius:25px;
+}

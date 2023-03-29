@@ -1,0 +1,26 @@
+.fruit_div{
+    background-color: rgb(151, 241, 241);
+    border-radius: 30px;
+}
+.furit_ap{
+    
+    border-radius:20px;
+}
+.furit_pine{
+    border-radius:20px;
+}
+.furit_reset{
+    
+    border-radius:20px;
+    
+}
+.furit_ap:hover{
+    background-color: rgb(255, 0, 0);
+    
+}
+.furit_pine:hover{
+    background-color:yellow;
+}
+.furit_reset:hover{
+    background-color:rgb(53, 0, 229);
+}

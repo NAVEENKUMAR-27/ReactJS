@@ -1,0 +1,17 @@
+.b-card1{
+    border-radius:50px;
+    border-top:10px solid rgb(255, 0, 0);
+    outline: none;
+}
+.b-card2{
+    border-radius:50px;
+    border-top:10px solid rgb(0, 247, 255);
+}
+.b-card3{
+    border-radius:50px;
+    border-top:10px solid rgb(0, 182, 33);
+}
+.b-card4{
+    border-radius:50px;
+    border-top:10px solid rgb(212, 255, 0);
+}

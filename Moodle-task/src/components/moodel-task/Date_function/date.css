@@ -1,0 +1,21 @@
+.text_run{
+    font-size:50px;
+    color:blue;
+    font-weight: bolder;
+}
+
+
+.inp_date{
+    border-radius: 15px;
+    width:180px;
+}
+.but{
+    border-radius:15px;
+    background-color: crimson;
+    color:white
+}
+.dat_div{
+    background-color: rgb(175, 255, 228);
+    border-radius: 25px;
+}
+

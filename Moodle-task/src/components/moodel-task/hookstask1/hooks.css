@@ -1,0 +1,28 @@
+.b_add{
+    border-radius: 30px;  
+}
+.b_less{
+    border-radius: 30px; 
+}
+.b_resert{
+    border-radius: 30px;   
+}
+.div{
+    box-shadow: 5px 5px 5px 10px black;
+    border-radius: 25px;    
+}
+.div:hover{
+    box-shadow: 5px 5px 5px 10px rgb(240, 180, 180);
+}
+.b_add:hover{
+    background-color:rgb(0, 255, 38) ;
+    color: white;
+}
+.b_less:hover{
+    background-color:rgb(13, 0, 201);
+    color: white;
+}
+.b_resert:hover{
+    background-color:red; 
+    color: white;  
+}

@@ -1,0 +1,38 @@
+.bg-color{
+    /* background-color:rgb(226, 30, 183); */
+    background-image: linear-gradient(to right,rgb(163, 31, 245), rgb(30, 17, 117));
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.centerdiv{
+    width:80%;
+    height:80%;
+    background-color:white;
+    border-radius:50px; 
+}
+.center{
+    display: grid;
+    place-items: center;
+}
+.log_span{
+    border-radius:50px;
+    background-color:rgb(236, 235, 235);
+    border:none;
+}
+.lo_inp{
+    border-radius:50px;
+    background-color:rgb(236, 235, 235);
+    border:none;
+    outline:none;
+}
+.lo_but{
+    border-radius:50px;
+    width:250px;
+    border:none;
+}
+::placeholder{
+    text-align: center;
+    color: red;
+}

@@ -1,0 +1,32 @@
+.emoji_tear{
+    font-size: 75px;
+   color:rgb(255, 247, 142)
+}
+.emoji_smile{
+    font-size: 75px;
+    color:rgb(255, 247, 142)
+   }
+.emoji_cry{
+    font-size: 75px;
+    color:rgb(255, 247, 142)
+ }
+.emoji_tear:hover{
+    color:yellow;
+}
+.emoji_smile:hover{
+    color: red;
+}
+.emoji_cry:hover{
+    color: blue;
+}
+.feed_div{
+    background-image: linear-gradient(to right,rgb(252, 201, 243), rgb(255, 0, 221),rgb(242, 56, 124));
+    border-radius:25px;
+}
+.todiv{
+    background-color: rgb(167, 248, 248);
+}
+.b_heart{
+    font-size: 120px;
+    color:red;
+}

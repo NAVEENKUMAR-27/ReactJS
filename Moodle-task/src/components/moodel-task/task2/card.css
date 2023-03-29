@@ -1,0 +1,10 @@
+    .div{
+        background-color: rgb(136, 248, 248);
+    }
+.bgimg{
+        background-image:url("./back.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+    }
+  

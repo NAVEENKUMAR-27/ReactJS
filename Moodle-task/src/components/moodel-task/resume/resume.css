@@ -1,0 +1,11 @@
+.img_1{
+    height:200px;
+    width:200px;
+}
+.text_ud{
+    text-decoration: underline;
+}
+.border_tab{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
