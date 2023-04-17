@@ -1,0 +1,93 @@
+.bg_img_skil{
+   background-image: url("./bgimage.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+.nav_back{
+    background-color: rgb(204, 204, 204,.3) !important;
+    font-size: 18px;
+}
+
+.btn_log1{
+    border-radius: 10px !important;
+    width:90px;
+    background-color: rgb(155, 7, 86);
+    color:white;
+    
+
+}
+
+.btn_log2{
+    border-radius: 10px !important;
+     width: 80px;
+    background-color: rgb(255, 251, 253);
+    color:rgb(155, 7, 86);
+    font-weight: bold;
+    border-color:white;
+    outline: none;
+
+}
+.icon_skill{
+    font-size: 25px;
+    color:rgb(155, 7, 86);
+
+}
+.text_nav{
+    font-weight: bold;
+    color: white;
+}
+.text_nav:hover{
+    
+    border: 2px solid rgb(255, 255, 255) ;
+    border-radius: 20px;
+    background-color: rgb(155, 7, 86);
+    
+}
+.bac_in{
+    border:none;
+    outline:none;
+    width: 200px;
+}
+.serach_tast{
+    background-color: white;
+}
+.icon_m{
+    color:grey;
+    font-size: 20px;
+}
+.bac_box{
+  background-color:rgb(155, 7, 86);
+  font-weight: 300;
+  color: white;
+  width: 100px;
+  border-radius:12px !important
+}
+::placeholder{
+    color: grey;
+}
+.btn-color{
+    background-color:rgb(255, 255, 255) !important;
+    color: rgb(155, 7, 86);
+}
+.img_car{
+    height: 110px;
+    width:100px;
+}
+.cart{
+    position: relative;
+    font-size: 25px;
+    left: 90px;
+    top:10px
+}
+.btn_cat{
+    background-color: rgb(240, 66, 159) !important;
+    color: white;
+}
+.box_bor{
+    box-shadow: 2px 2px 2px 2px rgb(255, 181, 220)  ;
+}
+.img_height{
+    height:180px;
+    
+}
